@@ -1,11 +1,11 @@
 ### Hey, eu sou a Jhanett Vivian ✨
-<!--
+
 <a href="https://github.com/DevJhanjhan">
   <img height=200  width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=DevJhanjhan&theme=omni" />
 </a>
 <a href="https://github.com/DevJhanjhan">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevJhanjhan&layout=compact&langs_count=8&card_width=320&theme=omni" />
-</a>-->
+</a>
 
 <div style="display: inline-block;">
   <br>
